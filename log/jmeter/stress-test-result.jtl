@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1663926286232,430,GET All Activities,200,OK,Starter 1-1,text,true,,3079,188,1,1,https://quality-releases-appservice.azurewebsites.net/api/Activities,428,0,391
